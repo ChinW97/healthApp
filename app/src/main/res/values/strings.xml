@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">healthApp</string>
+    <string name="NAButton">Local NA helplines</string>
 </resources>
